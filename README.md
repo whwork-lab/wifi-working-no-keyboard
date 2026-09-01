@@ -1,1 +1,1 @@
-# wifi-working-no-keyboard
+i have wired a keyboard to a pi pico w the power line is conected to pin VBUS the ground is pin 38,the D+ is GPIO 0 and D- is GPIO 1, im runnig this program on the pi pico w but the keyborad is not regersting can you plase help, let me no if you need more info
